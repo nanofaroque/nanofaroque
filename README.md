@@ -30,7 +30,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-![Github activity graph](https://activity-graph.herokuapp.com/graph?username=nanofaroque&theme=react-dark&hide_border=false&color=BDDFFF&line=6E93B5&point=BDDFFF)
+![Github activity graph](https://activity-graph.herokuapp.com/graph?username=nanofaroque&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)
 
 
 <br/>
