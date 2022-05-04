@@ -1,5 +1,9 @@
 <!-- <a href="https://AK1.io" rel="akshay2211">![](https://raw.githubusercontent.com/akshay2211/akshay2211.github.io/master/img/banner_dark.png)</a> -->
-<h3>Hi! 👋🤓<br>I'm Omar Faroque<br>Software Engineer at Amazon Web Services</h3>
+🔭 I’m currently working on Amazon ECS and other container infrastructure at Amazon Web Services
+
+🌱 I’m currently learning Rust
+
+😄 Pronouns: he/him
 
 <h3>Things I code with</h3>
 <p>
