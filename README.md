@@ -5,10 +5,6 @@
 
 😄 Pronouns: he/him
 
-
-![Github activity graph](https://activity-graph.herokuapp.com/graph?username=nanofaroque&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)
-
-
 <br/>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanofaroque&layout=compact"/>
