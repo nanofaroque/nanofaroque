@@ -1,7 +1,7 @@
 <!-- <a href="https://AK1.io" rel="akshay2211">![](https://raw.githubusercontent.com/akshay2211/akshay2211.github.io/master/img/banner_dark.png)</a> -->
 🔭 I’m currently working on Amazon ECS and other container infrastructure at Amazon Web Services
 
-🌱 I’m currently learning Rust
+🌱 I’m currently building highly scalable distributed services. 
 
 😄 Pronouns: he/him
 
